@@ -1,2 +1,8 @@
-node_modules
+*~
+Thumbs.db
+node_modules/
+*.log
+*.log*
+*.pid
+*.seed
 lib/
